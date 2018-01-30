@@ -1,0 +1,11 @@
+{
+    "bangs": {
+        "g": "https://google.ca/search?q={}",
+        "w": "https://en.wikipedia.org/w/index.php?search={}",
+        "py2": "https://docs.python.org/2/search.html?q={}",
+        "py3": "https://docs.python.org/3/search.html?q={}",
+        "crates": "https://crates.io/search?q={}",
+        "rust": "https://doc.rust-lang.org/stable/std/index.html?search={}",
+        "npm": "https://www.npmjs.com/search?q={}"
+    }
+}
